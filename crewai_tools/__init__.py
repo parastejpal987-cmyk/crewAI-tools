@@ -95,4 +95,6 @@ from .tools import (
     YoutubeVideoSearchTool,
     ZapierActionTools,
     ParallelSearchTool,
+    OpticParseTool,
+    PhishVisionTool,
 )
