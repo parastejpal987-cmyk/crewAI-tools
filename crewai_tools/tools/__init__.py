@@ -1,3 +1,5 @@
+from .opticparse_tool.opticparse_tool import OpticParseTool
+from .phishvision_tool.phishvision_tool import PhishVisionTool
 from .ai_mind_tool.ai_mind_tool import AIMindTool
 from .apify_actors_tool.apify_actors_tool import ApifyActorsTool
 from .arxiv_paper_tool.arxiv_paper_tool import ArxivPaperTool
